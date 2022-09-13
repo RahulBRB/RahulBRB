@@ -1,4 +1,4 @@
-<div align="center">
+</div>
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://www.linkedin.com/in/rahulbrb/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -14,7 +14,7 @@
 <br />
 
 I'm a second year Computer Science B.Tech student at SNU, New Town.
-Aspiring to be a Software Engineer and 
+Currently enjoying my programming journey of learning everyday, while managing my college life. Aspiring to become SDE and competiive coder.
 <br />
 
 I'm currently based in INDIA. 🇮🇳
