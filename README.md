@@ -5,3 +5,4 @@
 - 📫 To reach me, message me at Linkedin!
 
 To view all of my public gists: https://gist.github.com/ryzenRB
+![Visitor Count](https://profile-counter.glitch.me/ryzenRB/count.svg)
