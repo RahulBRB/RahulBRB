@@ -14,7 +14,7 @@
 <br />
 
 I'm a second year Computer Science B.Tech student at SNU, New Town.
-Aspiring Software Engineer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+Aspiring Software Engineer and a 2★ coder in CodeChef. 
 <br />
 
 I'm currently based in INDIA. 🇮🇳
