@@ -25,15 +25,15 @@ I’m familiar with many computer tech. I also love learning new techs and using
 <br />
 
 Please feel clone repositories, raise issues and submit PRs if you think something could be better.<br />
-View all my gists **[here](https://gist.github.com/ryzenRB)** or <a href="mailto:rahulatsnu@gmail.com"><b>send me an email</b></a>.
+View all my gists **[here](https://gist.github.com/RahulBRB)** or <a href="mailto:rahulatsnu@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryzenRB&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="ryzenRB Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulBRB&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="RahulBRB Github Stats">
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzenRB&layout=compact&theme=dark&bg_color=0A0A0A" alt="ryzenRB Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBRB&layout=compact&theme=dark&bg_color=0A0A0A" alt="RahulBRB Top Languages"/>
 <br />
 <br />
 <br />
