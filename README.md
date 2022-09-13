@@ -14,13 +14,13 @@
 <br />
 
 I'm a second year Computer Science B.Tech student at SNU, New Town.
-Aspiring Software Engineer and a 2★ coder in CodeChef. 
+Aspiring to be a Software Engineer and 
 <br />
 
 I'm currently based in INDIA. 🇮🇳
 
 <br />
-I’m familiar with many computer tech. I also love learning new techs and using new tools. I just started to do competitive coding in CodeChef, it's fun!  
+I’m familiar with many computer tech. I also love learning new techs and using new tools. I just recently started doing competitive coding in CodeChef, it's fun!  
 <br />
 <br />
 
@@ -42,9 +42,9 @@ View all my gists **[here](https://gist.github.com/ryzenRB)** or <a href="mailto
 </div>
 <h2> About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
-- 💻 I’m currently working on making my DSA strong and focusing on competitive coding.
+- 💻 I’m currently working on making my DSA stronger, and focusing on competitive coding.
 
-- 👨🏽‍💻 Currently growing my skillset in C++, and learning GitHub.
+- 👨🏽‍💻 Currently growing my skillset in C++, practicing questions, and learning GitHub.
 
 - 💞️ I’m not looking to collaborate at the moment.
 
@@ -56,28 +56,30 @@ View all my gists **[here](https://gist.github.com/ryzenRB)** or <a href="mailto
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-📝 Blog 🔝
+- 📝 Blog: <br/><br/>
 <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /> <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" /> <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" /> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
-☁ Cloud 🔝
+
+- ☁ Cloud: <br/><br/>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 
-🖍 Design 🔝
-<img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white
-" />
 
-🎮 Games 🔝
-<img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" /> <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" /> <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white" /> <img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white" /> <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" /> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badg&logo=steam&logoColor=white" />
+- 🖍 Design:<br/><br/>
+<img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 
-👩‍💻 IDE 🔝
+
+- 👩‍💻 IDE: <br/><br/>
 <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> 
 
-👩‍💻 Languages 🔝
+
+- 👩‍💻 Languages: <br/><br/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
 
-💻 OS 🔝
+
+- 💻 OS: <br/><br/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" /> 
 
-💻 Virtualization & Device 🔝
+
+- 💻 Virtualization & Device: <br/><br/>
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" /> <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" /> <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> 
 
