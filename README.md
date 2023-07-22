@@ -13,9 +13,9 @@
 <br />
 <br />
 I am a passionate and driven 3rd-year Computer Science B.Tech student at SNU, New Town, pursuing my dreams of becoming a professional full-stack developer. Embracing the thrill of learning every day, I find joy in my programming journey while effectively balancing the rigors of college life.<br><br>
-With a strong foundation in Front-End Development, I continuously strive to expand my knowledge and expertise in various computer technologies. My insatiable curiosity leads me to explore new tech and embrace cutting-edge tools in my projects, making each endeavor an exciting and enriching experience. <br>
+With a strong foundation in Front-End Development, I continuously strive to expand my knowledge and expertise in various computer technologies. <br>
 <br>
-Based in Kolkata, India, 🇮🇳. <br>
+Based in India, 🇮🇳. <br>
 Feel free to clone my repositories, raise issues, and submit PRs if you believe there's room for improvement. While some of my older repositories showcase basic college programs, I am consistently pushing myself to create impactful and innovative projects. <br><br>
 
 I am always open to collaboration and feedback. Together, we can build a better and brighter future through the power of technology.<br>
