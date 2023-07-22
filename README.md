@@ -12,46 +12,37 @@
 <br />
 <br />
 <br />
+I am a passionate and driven 3rd-year Computer Science B.Tech student at SNU, New Town, pursuing my dreams of becoming a professional full-stack developer. Embracing the thrill of learning every day, I find joy in my programming journey while effectively balancing the rigors of college life.<br><br>
+With a strong foundation in Front-End Development, I continuously strive to expand my knowledge and expertise in various computer technologies. My insatiable curiosity leads me to explore new tech and embrace cutting-edge tools in my projects, making each endeavor an exciting and enriching experience. <br>
+<br>
+Based in Kolkata, India, 🇮🇳. <br>
+Feel free to clone my repositories, raise issues, and submit PRs if you believe there's room for improvement. While some of my older repositories showcase basic college programs, I am consistently pushing myself to create impactful and innovative projects. <br><br>
 
-I'm a second year Computer Science B.Tech student at SNU, New Town.
-Currently enjoying my programming journey of learning everyday, while managing my college life. Aspiring to become SDE and competiive coder.
-<br />
-
-I'm currently based in INDIA. 🇮🇳
-
-<br />
-I’m familiar with many computer tech. I also love learning new techs and using new tools. I just recently started doing competitive coding in CodeChef, it's fun!  
-<br />
-<br />
-
-Please feel clone repositories, raise issues and submit PRs if you think something could be better.<br />
+I am always open to collaboration and feedback. Together, we can build a better and brighter future through the power of technology.<br>
 View all my gists **[here](https://gist.github.com/RahulBRB)** or <a href="mailto:rahulatsnu@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulBRB&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="RahulBRB Github Stats">
+
+<img src="https://myreadme.vercel.app/api/embed/rahulbrb?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /><br />
 <br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBRB&layout=compact&theme=dark&bg_color=0A0A0A" alt="RahulBRB Top Languages"/>
-<br />
-<br />
-<br />
+
 
 **Happy Coding!** 😊
 
 </div>
 <h2> About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
-- 💻 I’m currently working on making my DSA stronger, and focusing on competitive coding.
+- 💻 I’m currently working on some exciting projects to master full-stack development.
 
-- 👨🏽‍💻 Currently growing my skillset in C++, practicing questions, and learning GitHub.
+- 👨🏽‍💻 I am currently focused on enhancing my skillset in the back-end development of applications.
 
-- 💞️ I’m not looking to collaborate at the moment.
+- 💞️ I am open to collaboration at the moment, so feel free to reach out if you have any interesting projects in mind.
 
-- 💬 Ask me about Anime & Games. 
+- 💬 Let's talk about Games & Anime, two of my favorite topics!
 
-- 📫 To reach me, message me at Linkedin!
+- 📫 You can reach me by messaging me on LinkedIn. I'm always happy to connect and engage in tech-related discussions!
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
