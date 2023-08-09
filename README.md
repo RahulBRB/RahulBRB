@@ -16,7 +16,7 @@ Hello there! I'm Rahul👋. A dedicated and enthusiastic 3rd-year CS Enginerring
 
 <br>
 🤝 Feel free to reach out for a chat, collaboration, or just to share some fascinating tech insights. <br>I believe that great ideas come to life when minds unite. Let's connect, create, and code together! 🌟<br>
-<i>View all my gists **[here](https://gist.github.com/RahulBRB)** or <a href="mailto:rahulatsnu@gmail.com"><b>send me an email</b></a>.</i>
+<i>View all my gists <b><a href="https://gist.github.com/RahulBRB" target="_blank">[here]</a></b> or <a href="mailto:rahulatsnu@gmail.com"><b>send me an email</b></a>.</i>
 <br />
 <br />
 
