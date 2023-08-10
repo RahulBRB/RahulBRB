@@ -12,7 +12,7 @@
 <br />
 <br />
 <br />
-Hello there! I'm Rahul👋. A dedicated and enthusiastic 3rd-year CS Enginerring student based in Kolkata, India, with a flair for Full Stack development 🚀. I'm on a long quest for knowledge, always hungry to learn and grow in the realm of cutting-edge computer technologies. Whether it's crafting elegant front-end interfaces or engineering robust back-end systems, I find joy in every pixel and line of code 🔍.<br>
+Hello there! I'm Rahul👋. A dedicated and enthusiastic 3rd-year CS Engineering student based in Kolkata, India, with a flair for Full Stack development 🚀. I'm on a long quest for knowledge, always hungry to learn and grow in the realm of cutting-edge computer technologies. Whether it's crafting elegant front-end interfaces or engineering robust back-end systems, I find joy in every pixel and line of code 🔍.<br>
 
 <br>
 🤝 Feel free to reach out for a chat, collaboration, or just to share some fascinating tech insights. <br>I believe that great ideas come to life when minds unite. Let's connect, create, and code together! 🌟<br>
