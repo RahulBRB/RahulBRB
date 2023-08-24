@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RahulBRB/)](https://www.linkedin.com/in/RahulBRB/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rahul-yellow)](https://stackoverflow.com/users/22383411/rahul-baskey)
 
-I'm
+I'm an Aspiring
 Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
 
