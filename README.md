@@ -1,7 +1,8 @@
 ### Hi Developers 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RahulBRB/)](https://www.linkedin.com/in/RahulBRB/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Rahul-green)](https://rahul)
+[![Twitter Badge](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/RahulBRB/)](https://twitter.com/RahulBRB/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rahul-yellow)](https://stackoverflow.com/users/22383411/rahul-baskey)
+[![Linkedin Badge](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RahulBRB/)](https://www.linkedin.com/in/RahulBRB/)
 
 I'm an Aspiring Full Stack Developer. A dedicated and enthusiastic 3rd-year Computer Science Engineering student at SNU, Kolkata. 
 I'm on a long quest for knowledge, always hungry to learn and grow in the realm of cutting-edge computer technologies. Whether it's crafting elegantfront-end interfaces or engineering robust back-end systems, I find joy in learning them.
