@@ -1,6 +1,7 @@
 ### Hi Developers 👋
 <div align="center">
-  
+
+![](https://komarev.com/ghpvc/?username=RahulBRB&style=flat-square&base=1048)
 [![Repos Badge](https://badges.pufler.dev/repos/RahulBRB)]()
 [![Twitter Badge](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/RahulBRB/)](https://twitter.com/RahulBRB/)
 [![StackOverFlow Badge](https://img.shields.io/badge/StackOverflow-Rahul-yellow)](https://stackoverflow.com/users/22383411/rahul-baskey)
@@ -8,7 +9,7 @@
 
 </div>
 
-  
+
 I'm an Aspiring Full Stack Developer. A passionate 3rd-year Computer Science Engineering student at SNU, Kolkata. 
 I'm on a quest for knowledge, always willing to learn and grow in the realm of computer technologies. Whether it's crafting elegantfront-end interfaces or engineering robust back-end systems, I find joy in learning them.
 
@@ -20,7 +21,7 @@ Seeking opportunities to contribute my technical expertise and commitment to pro
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RahulBRB&margin-w=15&theme=algolia&no-frame=true&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-Languages and Tools: 
+<h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="c" width="40" height="40" />
@@ -83,10 +84,14 @@ Languages and Tools:
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br/>
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RahulBRB&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
     <img align="center" src="https://myreadme.vercel.app/api/embed/rahulbrb?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
 </p>
+
+
 </details>
 <br/>
 
