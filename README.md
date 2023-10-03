@@ -1,6 +1,4 @@
-<div align="center">
-    
-![image](https://i.ibb.co/P4fXsjN/Black-Minimal-Email-Header.png)
+![image](https://github.com/RahulBRB/RahulBRB/assets/86495244/a88603a4-1106-4dd1-a881-737bbbd2a625)
 
 <div align="center">
 
