@@ -8,8 +8,6 @@
 [![StackOverFlow Badge](https://img.shields.io/badge/StackOverflow-Rahul-yellow)](https://stackoverflow.com/users/22383411/rahul-baskey)
 [![Linkedin Badge](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RahulBRB/)](https://www.linkedin.com/in/RahulBRB/)
 
-</div>
-
 
 👨‍💻 I'm an Aspiring Full Stack Developer. A passionate 3rd-year Computer Science Engineering student at SNU, Kolkata. 
 🚀 I'm on a quest for knowledge, always willing to learn and grow in the realm of computer technologies. Whether it's crafting elegantfront-end interfaces or engineering robust back-end systems, I find joy in learning them.
@@ -20,7 +18,7 @@
 <br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RahulBRB&column=-1&margin-w=15&theme=algolia&no-frame=true&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
-<br/><br/>
+<br/><br/></center>
 <div align="center">
 <h3>Languages and Tools:</h3>
 
@@ -85,11 +83,13 @@
   <h3>Github Stats: </h3>
 </summary>
 <br/>
+        
 <p align="center">
     <img align="center" src="https://myreadme.vercel.app/api/embed/rahulbrb?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
 </p>
 </details>
 <br/>
+
 
 [![An image of @rahulbrb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulbrb)](https://holopin.io/@rahulbrb)
 
