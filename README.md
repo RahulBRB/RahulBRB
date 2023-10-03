@@ -77,7 +77,6 @@ Languages and Tools:
     <img src="https://img.icons8.com/?size=512&id=jD-fJzVguBmw&format=png" alt="redux" width="40" height="40" />
 </a>
 
-
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -90,4 +89,6 @@ Languages and Tools:
 </p>
 </details>
 <br/>
+
 [![An image of @rahulbrb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulbrb)](https://holopin.io/@rahulbrb)
+
