@@ -1,4 +1,5 @@
-### Hi Developers 👋
+![image](https://github.com/RahulBRB/RahulBRB/assets/86495244/63cb10bf-f17d-4069-ac0e-ba4244e5f80c)
+
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=RahulBRB&style=flat-square&base=1048)
@@ -10,18 +11,18 @@
 </div>
 
 
-I'm an Aspiring Full Stack Developer. A passionate 3rd-year Computer Science Engineering student at SNU, Kolkata. 
-I'm on a quest for knowledge, always willing to learn and grow in the realm of computer technologies. Whether it's crafting elegantfront-end interfaces or engineering robust back-end systems, I find joy in learning them.
+👨‍💻 I'm an Aspiring Full Stack Developer. A passionate 3rd-year Computer Science Engineering student at SNU, Kolkata. 
+🚀 I'm on a quest for knowledge, always willing to learn and grow in the realm of computer technologies. Whether it's crafting elegantfront-end interfaces or engineering robust back-end systems, I find joy in learning them.
 
-Eager to apply my skills and work ethic to an internship role and contribute to a dynamic and innovative environment. <br>
+🌟 Eager to apply my skills and work ethic to an internship role and contribute to a dynamic and innovative environment. <br>
 Seeking opportunities to contribute my technical expertise and commitment to professionalism. <br>
 <i>View my gists <a href="https://gist.github.com/RahulBRB" target="_blank">[Here]</a>. For any important discussions contact me on<a href="mailto:rahulatsnu@gmail.com" target="_blank"> Email</a></i>
-
-![Visitor Count](https://profile-counter.glitch.me/RahulBRB/count.svg)
+<br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RahulBRB&margin-w=15&theme=algolia&no-frame=true&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+<h3>Languages and Tools:</h3>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="c" width="40" height="40" />
@@ -77,22 +78,16 @@ Seeking opportunities to contribute my technical expertise and commitment to pro
 <a href="https://redux.js.org" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=512&id=jD-fJzVguBmw&format=png" alt="redux" width="40" height="40" />
 </a>
+</div>
 
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
-  
+<h3 align="left">My Github Stats:</h3>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RahulBRB&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
     <img align="center" src="https://myreadme.vercel.app/api/embed/rahulbrb?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
 </p>
 
-
-</details>
 <br/>
 
 [![An image of @rahulbrb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulbrb)](https://holopin.io/@rahulbrb)
