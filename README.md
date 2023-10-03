@@ -1,6 +1,6 @@
 <div align="center">
     
-![image](https://i.ibb.co/7JVyhHZ/image-2023-10-03-165556738.png)
+![image](https://i.ibb.co/P4fXsjN/Black-Minimal-Email-Header.png)
 
 <div align="center">
 
