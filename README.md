@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 <div align="center">
   
-[![Repos Badge](https://badges.pufler.dev/repos/RahulBRB)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/RahulBRB)]()
 [![Twitter Badge](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/RahulBRB/)](https://twitter.com/RahulBRB/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Rahul-yellow)](https://stackoverflow.com/users/22383411/rahul-baskey)
+[![StackOverFlow Badge](https://img.shields.io/badge/StackOverflow-Rahul-yellow)](https://stackoverflow.com/users/22383411/rahul-baskey)
 [![Linkedin Badge](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RahulBRB/)](https://www.linkedin.com/in/RahulBRB/)
 
 </div>
