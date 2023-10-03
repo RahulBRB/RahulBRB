@@ -18,12 +18,7 @@ Seeking opportunities to contribute my technical expertise and commitment to pro
 
 ![Visitor Count](https://profile-counter.glitch.me/RahulBRB/count.svg)
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RahulBRB&column=7"/>
-  </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=RahulBRB&margin-w=15&theme=algolia&no-frame=true&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 Languages and Tools: 
 
