@@ -19,8 +19,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RahulBRB&column=-1&margin-w=15&theme=algolia&no-frame=true&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 <br/><br/></center>
-<div align="center">
-<h3>Languages and Tools:</h3>
+
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,7 +29,7 @@
 </p>
 
 
-</div>
+
 <br/>
 <details open="">
 <summary>
