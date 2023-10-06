@@ -43,6 +43,6 @@
 </details>
 <br/>
 
-[![An image of @rahulbrb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulbrb)](https://holopin.io/@rahulbrb)
+![image](https://github.com/RahulBRB/RahulBRB/assets/86495244/2e0ece7f-ef1a-404c-a538-26382a4b8e64)
 
 </div>
