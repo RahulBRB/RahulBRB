@@ -4,9 +4,10 @@
 
 ![](https://komarev.com/ghpvc/?username=RahulBRB&style=flat-square&base=1048)
 [![Repos Badge](https://badges.pufler.dev/repos/RahulBRB)]()
-[![Twitter Badge](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/RahulBRB/)](https://twitter.com/RahulBRB/)
+[![Twitter Badge](https://img.shields.io/badge/-RahulBRB-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/RahulBRB/)](https://twitter.com/RahulBRB/)
 [![StackOverFlow Badge](https://img.shields.io/badge/StackOverflow-Rahul-yellow)](https://stackoverflow.com/users/22383411/rahul-baskey)
-[![Linkedin Badge](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RahulBRB/)](https://www.linkedin.com/in/RahulBRB/)
+[![Linkedin Badge](https://img.shields.io/badge/-RahulBRB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RahulBRB/)](https://www.linkedin.com/in/RahulBRB/)
+[![OpenSauced Badge](https://img.shields.io/badge/OpenSauced-RahulBRB-orange?style=flat-square&logo=OpenSauced&logoColor=white&link=https://app.opensauced.pizza/user/RahulBRB)](https://app.opensauced.pizza/user/RahulBRB)
 
 
 👨‍💻 I'm an Aspiring Full Stack Developer. A passionate 3rd-year Computer Science Engineering student at SNU, Kolkata. 
