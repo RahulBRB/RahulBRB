@@ -44,7 +44,8 @@
 </details>
 <br/>
 
-[![An image of @rahulbrb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulbrb)](https://holopin.io/@rahulbrb)
+[![An image of @rahulbrb's Holopin badges, which is a link to view their full Holopin profile](https://github.com/RahulBRB/RahulBRB/assets/86495244/f79f1c9d-df32-4292-8a28-01514071d244
+)](https://holopin.io/@rahulbrb)
 
 
 </div>
